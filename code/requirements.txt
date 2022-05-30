@@ -1,0 +1,5 @@
+
+presidio-analyzer
+spacy
+transformers
+presidio-anonymizer
